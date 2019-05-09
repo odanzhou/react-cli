@@ -48,4 +48,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 1. husky lint-staged prettier -D // 自动格式化代码
 2. source-map-explorer -D // 包大小分析
 3. node-sass -D // css 预处理器
-4. react-redux -S // 状态管理 
+4. react-redux redux -S // 状态管理 
