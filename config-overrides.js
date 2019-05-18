@@ -20,8 +20,8 @@ const setProcessEnv = (config) => {
   for(let plugin of plugins) {
     if(plugin instanceof webpack.DefinePlugin) {
       plugin['definitions']['process.env'] = {
+        ...setProcessEnvStringify(AddProcessEnv),
         ...plugin['definitions']['process.env'],
-        ...setProcessEnvStringify(AddProcessEnv)
       }
       break
     }
