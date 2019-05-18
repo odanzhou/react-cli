@@ -53,3 +53,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 6. less less-loader // 增加less
 7. customize-cra // 基于react-app-rewired的封装，https://juejin.im/post/5cd596d451882568897d89c8
 8. babel-plugin-import // 按需加载，针对antd
+9. webpack-ant-icon-loader // 异步加载ant的icon, https://github.com/Beven91/webpack-ant-icon-loader

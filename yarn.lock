@@ -9612,6 +9612,10 @@ webidl-conversions@^4.0.2:
   version "4.0.2"
   resolved "https://registry.npm.taobao.org/webidl-conversions/download/webidl-conversions-4.0.2.tgz#a855980b1f0b6b359ba1d5d9fb39ae941faa63ad"
 
+webpack-ant-icon-loader@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.npm.taobao.org/webpack-ant-icon-loader/download/webpack-ant-icon-loader-1.0.5.tgz#e836282405ed12ed0e58da06799af6db12bc7fde"
+
 webpack-dev-middleware@^3.5.1:
   version "3.7.0"
   resolved "https://registry.npm.taobao.org/webpack-dev-middleware/download/webpack-dev-middleware-3.7.0.tgz#ef751d25f4e9a5c8a35da600c5fda3582b5c6cff"
