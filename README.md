@@ -50,3 +50,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 3. node-sass -D // css 预处理器
 4. react-redux redux -S // 状态管理 
 5. react-app-rewired -D // 重载react-scripts的配置，增加config-overrides.js,并将命令中的react-scripts换成react-app-rewired
+6. less less-loader // 增加less
+7. customize-cra // 基于react-app-rewired的封装，https://juejin.im/post/5cd596d451882568897d89c8
+8. babel-plugin-import // 按需加载，针对antd
