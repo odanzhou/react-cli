@@ -3,7 +3,7 @@ const { override, fixBabelImports, addLessLoader } = require('customize-cra')
 const path = require('path')
 const webpack = require('webpack')
 
-// 扩展 process.env
+// 扩展 process.env，默认值优先
 const AddProcessEnv = {
   BUILD_TIME: Date.now(), // 打包时间
 }

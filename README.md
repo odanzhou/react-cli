@@ -43,7 +43,12 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## 包
+### react-cli
+
+基于create-react-app自定义的脚手架
+react + redux + react-router + typescript + antd + less
+
+### 包
 
 1. husky lint-staged prettier -D // 自动格式化代码
 2. source-map-explorer -D // 包大小分析
