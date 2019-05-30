@@ -43,6 +43,7 @@
     "@types/react-dom": "16.8.4",
     "babel-plugin-import": "^1.11.2",
     "customize-cra": "^0.2.12",
+    "http-proxy-middleware": "^0.19.1",
     "husky": "^2.2.0",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",

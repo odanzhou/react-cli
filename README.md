@@ -59,3 +59,4 @@ react + redux + react-router + typescript + antd + less
 7. customize-cra -D // 基于react-app-rewired的封装，https://juejin.im/post/5cd596d451882568897d89c8
 8. babel-plugin-import -D // 按需加载，针对antd
 9. webpack-ant-icon-loader -D // 异步加载ant的icon, https://github.com/Beven91/webpack-ant-icon-loader
+10. http-proxy-middleware // 代理
